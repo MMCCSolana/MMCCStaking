@@ -12,9 +12,9 @@ export const CANDY_MACHINE_CONFIG =
 export const CANDY_MACHINE_UUID = "FBtkf9";
 export const START_DATE = 1633125660;
 export const RPC_MAINNET_URL =
-  "https://dawn-lively-cloud.solana-mainnet.quiknode.pro/b848b3c430c73fce79dc707793ee68cb94eaf2fa/";
+  "https://solana-mainnet.g.alchemy.com/v2/NPT729AMWVSqiErv6AUSwmXgZP7ZpN2B/";
 export const RPC_DEVNET_URL =
-  "https://white-sparkling-wind.solana-devnet.quiknode.pro/a78aff6bb3aa64bedc4c2f178f33b061928b4f90/";
+  "https://solana-mainnet.g.alchemy.com/v2/NPT729AMWVSqiErv6AUSwmXgZP7ZpN2B/";
 export const NETWORK = WalletAdapterNetwork.Mainnet;
 export const WALLETS = [
   getPhantomWallet(),
